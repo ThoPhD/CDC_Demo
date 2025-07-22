@@ -1,0 +1,10 @@
+clickhouse-data/
+clickhouse-sink/
+users.d/
+.ide/
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+*.pid
